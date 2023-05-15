@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2907239d.css",
+    "main.js": "/static/js/main.88a41c94.js",
+    "static/js/787.0faeda46.chunk.js": "/static/js/787.0faeda46.chunk.js",
+    "static/media/Mask Group (1).jpg": "/static/media/Mask Group (1).75978deb2b02fb2c5aec.jpg",
+    "static/media/Mask Group.jpg": "/static/media/Mask Group.b766f5f8c8f83f611b44.jpg",
+    "static/media/image 6.jpg": "/static/media/image 6.40527535e174bc845670.jpg",
+    "static/media/image 5.jpg": "/static/media/image 5.76d042fc935efaf01c41.jpg",
+    "index.html": "/index.html",
+    "main.2907239d.css.map": "/static/css/main.2907239d.css.map",
+    "main.88a41c94.js.map": "/static/js/main.88a41c94.js.map",
+    "787.0faeda46.chunk.js.map": "/static/js/787.0faeda46.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2907239d.css",
+    "static/js/main.88a41c94.js"
+  ]
+}
